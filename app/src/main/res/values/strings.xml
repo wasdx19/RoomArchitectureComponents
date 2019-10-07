@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string name="add_album">Add Album</string>
+    <string name="get_album">Get Album</string>
+</resources>
